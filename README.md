@@ -1,0 +1,1 @@
+Instala el requirements con pip install -r requirements.txt
