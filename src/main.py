@@ -7,7 +7,7 @@ app.include_router(login_model.router)
 
 
 
-app.title = "Mi Crud de peliculas"
+app.title = "Login"
 app.version = "0.0.1"
 
 
